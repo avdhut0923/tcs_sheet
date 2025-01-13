@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> // we actually not removing element in ths particular method
+//map method is also good for this question , only print unique values 
+//or sort method method is also good
+
 using namespace std;
 
 void usortRemDup(int arr[],int n){
